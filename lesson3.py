@@ -3,7 +3,9 @@
 
 
 num= 4
+num_none= None  #we can also assign None to a variable
 print(num)
+print(num_none)
 
 string = "Hello World"
 print(string)
